@@ -1,0 +1,7 @@
+[medication] can next be taken at [time].
+[medication] logged taken at [time].
+What should it be called?
+Alarm for [medication] is set to [type]/ the next alarm will be at [time,date]
+[list-medications]
+[medication] temporarily removed from current medication list.
+[medication] was put back on the current medications list.
